@@ -1,0 +1,7 @@
+{
+  "problem": "Duplicate entry in example spreadsheets",
+  "affected_users": "Demo analysts",
+  "current_process": "Manual copying",
+  "desired_outcome": "Reduce duplicate entry",
+  "uses_sensitive_data": false
+}
